@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Seungjin's%20GitHub&fontSize=42" />
 
 <div align=center>
-<h3>sj0919</h3>
-
 
 ### 🛠 Languages / Library / Tools
 
